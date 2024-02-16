@@ -31,7 +31,7 @@ header{
 	justify-content: space-between;
 	background: transparent;
 	padding: 30px 18%;
-	transition: .3s;
+	transition: .1s;
 }
 .logo img{
 	max-width: 100%;
