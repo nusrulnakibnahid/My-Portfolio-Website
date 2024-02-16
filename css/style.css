@@ -33,9 +33,10 @@ header{
 	padding: 30px 18%;
 	transition: .1s;
 }
+
 .logo img{
 	max-width: 100%;
-	width: 300px;
+	width: 300px;    
 	height: auto;
 }
 .navlist{
