@@ -9,17 +9,17 @@
 }
 :root{
 	--bg-color: #ffffff;
-	--text-color: #000;
-	--secound-color: #a09dab;
+	--text-color: #000000;
+	--secound-color: #000;
 	--main-color: #f75023;
 	--big-font: 5rem;
 	--h2-font: 3rem;
-	--p-font: 1.1rem;
+	--p-font: 1.3rem;
 }
 
 
 body{
-	background: var(--bg-color);
+	background: blanchedalmond;
 	color: var(--text-color);
 }
 header{
@@ -33,7 +33,7 @@ header{
 	justify-content: space-between;
 	background: transparent;
 	padding: 30px 18%;
-	transition: .1s;
+	transition: .11s;
 }
 
 .logo img{
@@ -112,12 +112,12 @@ section{
 	margin: 10px 0px 25px;
 	font-size: var(--big-font);
 	line-height: 1;
-	font-weight: 500;
+	font-weight: 450;
 }
 .home-text h5{
 	margin-bottom: 23px;
-	font-size: 19px;
-	font-weight: 500;
+	font-size: 22px;
+	font-weight: 600;
 }
 span{
 	color: var(--main-color);
@@ -157,7 +157,7 @@ span{
 	background: var(--main-color);
 	font-size: var(--p-font);
 	padding: 10px 40px;
-	font-weight: 500;
+	font-weight: 700;
 	line-height: 24px;
 	border-radius: 30px;
 	transition: ease .40s;
@@ -179,7 +179,7 @@ header.sticky{
 .items{
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(220px, auto));
-	grid-gap: 2rem;
+	grid-gap: 8rem;
 	align-items: center;
 	text-align: center;
 }
@@ -202,25 +202,25 @@ header.sticky{
 .sub-box p{
 	font-size: var(--p-font);
 	color: var(--secound-color);
-	line-height: 29px;
+	line-height: 28px;
 }
 .sub-box:hover{
 	background: #ffffff;
 	box-shadow: 18px 0px 87px 0px rgb(10 15 70 / 7%);
 	border-radius: 12px;
 	will-change: transform;
-	transform: perspective(1000px) rotateX(4.80deg) rotateY(10.23deg) scale3d(1.05,1.05,1.05);
+	transform: perspective(1000px) rotateX(4.80deg) rotateY(15.23deg) scale3d(1.05,1.05,1.05);
 }
 
 .about{
 	display: grid;
 	grid-template-columns: repeat(2, 2fr);
 	align-items: center;
-	grid-gap: 2rem;
+	grid-gap: 6rem;
 }
 .about-img img{
-	max-width: 100%;
-	width: 540px;
+	max-width: 400%;
+	width: 640px;
 	height: auto;
 }
 .about-text h2{
@@ -291,7 +291,7 @@ header.sticky{
 	transition: all .40s;
 }
 .layer:hover{
-	background: linear-gradient(rgba(0,0,0,0.5) 0%, #191919);
+	background: linear-gradient(rgba(105, 178, 212, 0.5) 0%, #191919);
 }
 .layer h3{
 	position: absolute;
