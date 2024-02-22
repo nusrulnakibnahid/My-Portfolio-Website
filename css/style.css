@@ -372,7 +372,7 @@ header.sticky{
 .row p{
 	font-size: var(--p-font);
 	color: var(--secound-color);
-	line-height: 28px;
+	line-height: 28px;  
 }
 .row:hover{
 	will-change: transform;
