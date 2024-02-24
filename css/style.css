@@ -8,7 +8,8 @@
 	scroll-behavior: smooth;
 }
 :root{
-	--bg-color: #ffffff;
+	--bg-color: rgb(210,238,247); 
+	--bg-color:radial-gradient(circle, rgba(140,214,237,1) 5%, rgba(96,211,247,1) 30%, rgba(255,255,255,1) 100%);
 	--text-color: #000000;
 	--secound-color: #000;
 	--main-color: #f75023;
@@ -19,7 +20,8 @@
 
 
 body{
-	background: blanchedalmond;
+	background: rgb(13,122,209);
+    background: radial-gradient(circle, rgba(13,122,209,1) 0%, rgba(255,255,255,1) 52%, rgba(30,122,218,1) 100%);
 	color: var(--text-color);
 }
 header{
