@@ -3,34 +3,44 @@
 
 <h4 align="left"><b>Home Page:</b></h4>
 
-![1](https://github.com/nusrulnakibnahid/My_Portfolio_Website/assets/105875914/1e3e3eb6-52c5-45a1-b878-21b495cf4129)
-![2](https://github.com/nusrulnakibnahid/My_Portfolio_Website/assets/105875914/f9b6dcac-35c2-4d66-8836-c6efd8ceaf67)
+![1](https://github.com/nusrulnakibnahid/My-Portfolio-Website/assets/105875914/8546695f-9aeb-4fce-926e-0463f80e20be)
+![2](https://github.com/nusrulnakibnahid/My-Portfolio-Website/assets/105875914/ca5a28d2-7ee9-4b71-8d41-9844e39aab5a)
+
+
 
 
 
 <h4 align="left"><b>About:</b></h4>
 
-![3](https://github.com/nusrulnakibnahid/My_Portfolio_Website/assets/105875914/502e6c57-21a2-4a8a-a688-63b8fe14caa7)
+![3](https://github.com/nusrulnakibnahid/My-Portfolio-Website/assets/105875914/5d83a0ee-43bb-475e-9d86-d8ad38f44ee7)
+
 
 
 
 <h4 align="left" ><b>Skills:</b></h4>
 
-![4](https://github.com/nusrulnakibnahid/My_Portfolio_Website/assets/105875914/af568b73-5643-424a-a463-bd7161ff2610)
+![4](https://github.com/nusrulnakibnahid/My-Portfolio-Website/assets/105875914/ac42a871-5c29-4fe2-9d05-be12876737a1)
+
 
 
 
 <h4 align="left"><b>Education:</b></h4>
 
-![5](https://github.com/nusrulnakibnahid/My_Portfolio_Website/assets/105875914/6e2d9e19-6c6c-4c93-85a0-b8568846332c)
+![5](https://github.com/nusrulnakibnahid/My-Portfolio-Website/assets/105875914/c10c72d4-9604-4afb-a7cc-c5fc50110f10)
+
 
 
 
 <h4 align="left"><b>Hobby:</b></h4>
 
-![6](https://github.com/nusrulnakibnahid/My_Portfolio_Website/assets/105875914/11ecddc7-d6d3-4a1f-b11d-7cd9b9f6d27e)
+![6](https://github.com/nusrulnakibnahid/My-Portfolio-Website/assets/105875914/47e94c2d-7575-4ee2-9905-7944989b551b)
 
 
-<h4 align="left" color="blue"><b>Contact:</b></h4>
 
-![7](https://github.com/nusrulnakibnahid/My_Portfolio_Website/assets/105875914/d3b40745-ac33-46ea-a465-5e7b2dc96b8a)
+<h4 align="left" ><b>Contact:</b></h4>
+
+![7](https://github.com/nusrulnakibnahid/My-Portfolio-Website/assets/105875914/513f8542-f801-40f9-b22f-797b91bf71cd)
+
+
+<h2 align="center" ><b><u>Website Link</u></b></h2>
+<h3 align="center" ><a href="https://nusrulnakibnahid.github.io/My-Portfolio-Website/" target="_blank">Nusrul Nakib Nahid</a></h3>
