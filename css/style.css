@@ -168,8 +168,8 @@ span{
 	transform: scale(1.1);
 }
 .home-img img{
-	max-width: 100%;
-	width: 540px;
+	max-width: 250%;
+	width: 740px;
 	height: auto;
 }
 header.sticky{
